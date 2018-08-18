@@ -1,0 +1,43 @@
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-image: url("assets/bckgrnd.png")
+}
+
+#selfie {
+    width: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #2c5fa8;
+    border-radius: 100px;
+}
+
+footer {
+    background: #969696; 
+    opacity: 0.6;
+}
+
+footer p, footer h3 {
+    color: #FFFFFF;
+}
+
+footer p {
+    text-align: center;
+}
+
+#sample{
+    display:inline-block;
+    margin:5px 80px;
+    padding:5px;
+}
+
